@@ -30,3 +30,4 @@ simplejson>=3.16.0
 # ---------------------------------------
 # Misc. requirements
 sqlakeyset==0.1.1559103842
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
