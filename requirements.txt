@@ -2,7 +2,7 @@
 # 'MySQLdb' dependency.
 mysqlclient>=1.4.2
 # Main Flask related dependencies.
-Flask==1.1.1
+Flask==2.2.5
 Flask-Bootstrap==3.3.7.1
 flask-marshmallow==0.10.1
 Flask-Migrate>=2.2.1
