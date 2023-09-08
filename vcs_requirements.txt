@@ -1,5 +1,5 @@
 dulwich>=0.19,<0.20
-gitpython==2.1.11
+gitpython==3.1.35
 Flask==1.1.1
 PyGithub==1.40
 unidiff==0.5.5
