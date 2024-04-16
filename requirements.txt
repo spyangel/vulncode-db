@@ -2,7 +2,7 @@
 # 'MySQLdb' dependency.
 mysqlclient>=1.4.2
 # Main Flask related dependencies.
-Flask==1.1.1
+Flask==2.2.5
 Flask-Bootstrap==3.3.7.1
 flask-marshmallow==0.10.1
 Flask-Migrate>=2.2.1
@@ -30,3 +30,5 @@ simplejson>=3.16.0
 # ---------------------------------------
 # Misc. requirements
 sqlakeyset==0.1.1559103842
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=2.3.8 # not directly required, pinned by Snyk to avoid a vulnerability
