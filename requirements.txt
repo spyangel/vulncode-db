@@ -18,7 +18,7 @@ marshmallow-sqlalchemy==0.17.0
 google-auth==1.6.1
 # Flask-debugtoolbar requirements -------
 flask-debugtoolbar>=0.10.1
-setuptools>=40.6.3
+setuptools>=70.0.0
 sqlparse==0.3.0
 pygments==2.4.2
 pandas==0.25.1
