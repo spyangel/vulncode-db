@@ -19,7 +19,7 @@ google-auth==1.6.1
 # Flask-debugtoolbar requirements -------
 flask-debugtoolbar>=0.10.1
 setuptools>=40.6.3
-sqlparse==0.3.0
+sqlparse==0.5.4
 pygments==2.4.2
 pandas==0.25.1
 colorama>=0.4.1
@@ -30,3 +30,4 @@ simplejson>=3.16.0
 # ---------------------------------------
 # Misc. requirements
 sqlakeyset==0.1.1559103842
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
